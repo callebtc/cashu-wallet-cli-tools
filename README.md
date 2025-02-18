@@ -1,5 +1,7 @@
 Small CLI tool for manual Cashu operations
 
+Clone this repository and install with `poetry install`. See the nutshell repository for more detailed instructions on how to install Python and Poetry: https://github.com/cashubtc/nutshell
+
 Create a new mint quote:
 
 ```sh
